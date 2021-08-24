@@ -8,4 +8,4 @@ inserted new rows in a table.
 
 SQLite Movies Database.py
 In this file I have created new database named "Movies_list.db" and in this database there is one table named "Movies"
-!(Untitled.png)
+![Movies Table of Movies_list.db](Untitled.png)
